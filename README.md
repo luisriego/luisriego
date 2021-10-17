@@ -30,5 +30,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisriego&show_icons=true&theme=tokyonight)
 
 Thank you to:
-    https://rahuldkjain.github.io/gh-profile-readme-generator/
-    https://github.com/CharalambosIoannou
+- https://github.com/rahuldkjain
+- https://github.com/CharalambosIoannou
