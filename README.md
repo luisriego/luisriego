@@ -26,5 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisriego&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=luisriego.luisriego)
+[![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisriego&show_icons=true&theme=tokyonight)
 
 Thank you https://rahuldkjain.github.io/gh-profile-readme-generator/
