@@ -29,4 +29,6 @@
 [![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisriego&show_icons=true&theme=tokyonight)
 
-Thank you https://rahuldkjain.github.io/gh-profile-readme-generator/
+Thank you to:
+    https://rahuldkjain.github.io/gh-profile-readme-generator/
+    https://github.com/CharalambosIoannou
