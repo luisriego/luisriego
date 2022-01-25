@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET, QA, to live**
 
-- 👯 I’m looking to collaborate on [symfony-api-platform](https://github.com/JuanWilde/symfony-api-platform) and [brisbane](https://github.com/codenip-tech/brisbane)
+- 👯 I’m looking for to collaborate on [symfony-api-platform](https://github.com/JuanWilde/symfony-api-platform) and [brisbane](https://github.com/codenip-tech/brisbane)
 
 - 👨‍💻 All of my projects are available at [http://expresarte.com.br](http://expresarte.com.br)
 
