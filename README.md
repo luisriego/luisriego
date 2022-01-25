@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [condo-api](https://github.com/luisriego/condo-api)
 
-- 🌱 I’m currently learning **Java, QA, to live**
+- 🌱 I’m currently learning **.NET, QA, to live**
 
 - 👯 I’m looking to collaborate on [symfony-api-platform](https://github.com/JuanWilde/symfony-api-platform)
 
