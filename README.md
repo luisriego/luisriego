@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Riego</h1>
 <h3 align="center">Programming since the last millenium</h3>
 
-- 🔭 I’m currently working on [condo-api](https://github.com/luisriego/condo-api)
+- 🔭 I’m currently working on [condo-api](https://github.com/luisriego/condo-api) and collaborating with the [Brisbane project](https://github.com/codenip-tech/brisbane)
 
 - 🌱 I’m currently learning **.NET, QA, to live**
 
