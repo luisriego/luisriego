@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Riego</h1>
 <h3 align="center">Programming since the last millenium</h3>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" alt="angular" />
 
 - 🔭 I’m currently working on [condo-api](https://github.com/luisriego/condo-api) and collaborating with the [Brisbane project](https://github.com/codenip-tech/brisbane)
 
