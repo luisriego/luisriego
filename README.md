@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Riego</h1>
 <h3 align="center">Programming since the last millenium</h3>
-![CleanArchitecture](https://user-images.githubusercontent.com/13436232/160285382-9b0539cd-ab74-42e8-8c13-d0c5c941c272.jpg)
+![CleanArchitecture](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 - 🔭 I’m currently working on [condo-api](https://github.com/luisriego/condo-api) and collaborating with the [Brisbane project](https://github.com/codenip-tech/brisbane)
 
