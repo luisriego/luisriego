@@ -31,8 +31,8 @@
 [![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
 
 ---
-<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" alt="angular" />
-<p>Image from blog.cleancoder.com</p>
+<img src="https://netsharpdev.com/images/posts/shape.png" alt="angular" />
+<p>Image from https://netsharpdev.com/</p>
 
 Thank you to:
 - https://github.com/rahuldkjain
