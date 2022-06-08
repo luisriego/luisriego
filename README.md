@@ -31,8 +31,8 @@
 [![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
 
 ---
-<img src="https://netsharpdev.com/images/posts/shape.png" alt="angular" />
-<p>Image from https://netsharpdev.com/</p>
+<img src="[https://netsharpdev.com/images/posts/shape.png](https://paulovich.net/static/hexagonal-1.png)" alt="angular" />
+<p>Image from [https://netsharpdev.com](https://paulovich.net)/</p>
 
 Thank you to:
 - https://github.com/rahuldkjain
