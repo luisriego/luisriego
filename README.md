@@ -30,7 +30,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=luisriego.luisriego)
 [![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
 
----https://paulovich.net/static/hexagonal-1.png
+---
 <img src="https://paulovich.net/static/hexagonal-1.png" alt="angular" />
 <p>Image from https://paulovich.net/</p>
 
