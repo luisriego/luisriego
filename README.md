@@ -7,7 +7,7 @@
 
 - 👯 I’m looking for to collaborate on [symfony-api-platform](https://github.com/JuanWilde/symfony-api-platform) and [brisbane](https://github.com/codenip-tech/brisbane)
 
-- 👨‍💻 Some of my projects are available at [https://expresarte.com.br](https://expresate.com.br/)
+- 👨‍💻 Some of my projects are available at [https://expresarte.com.br](https://expresate.com.br/) no longer maintained
 
 - 💬 Ask me about **Symfony**
 
