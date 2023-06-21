@@ -32,7 +32,7 @@
 
 ---
 <img src="https://connect.symfony.com/uploads/badges/b3ef1fd5-aa43-49e0-8d51-a3612cbd9e1a/f8b3fed6-edee-4ef5-adf6-9f3e8e524eab.png" alt="angular" />
-<p>Image from https://connect.symfony.com//</p>
+<p>Image from https://connect.symfony.com/</p>
 
 Thank you to:
 - https://github.com/rahuldkjain
