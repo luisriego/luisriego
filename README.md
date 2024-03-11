@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Programming since the last millenium</h3>
 
-- 🔭 I’m currently working on [workstation](https://github.com/luisriego/workstation) and collaborating with the [Brisbane project](https://github.com/codenip-tech/brisbane)
-
 - 🌱 I’m currently learning **.NET, QA, to live** and getting Azure certifications
-
-- 👯 I’m looking for to collaborate on [symfony-api-platform](https://github.com/JuanWilde/symfony-api-platform) and [brisbane](https://github.com/codenip-tech/brisbane)
-
-- 👨‍💻 Some of my projects are available at [https://expresarte.com.br](https://expresate.com.br/) no longer maintained
 
 - 💬 Ask me about **Symfony**
 
