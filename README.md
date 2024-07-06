@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Programming since the last millenium</h3>
 
-- 🌱 I’m currently learning **.NET, QA, to live** and getting Azure certifications
+- 🌱 I’m currently learning **.NET, AI, and getting Azure AI-102 certification
 
 - 💬 Ask me about **Symfony**
 
