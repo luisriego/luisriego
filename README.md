@@ -25,7 +25,7 @@
 [![Github](https://img.shields.io/github/followers/luisriego?label=Follow&style=social)](https://github.com/luisriego)
 
 ---
-<img src="https://connect.symfony.com/uploads/badges/b3ef1fd5-aa43-49e0-8d51-a3612cbd9e1a/f8b3fed6-edee-4ef5-adf6-9f3e8e524eab.png" alt="angular" />
+<img src="https://connect.symfony.com/uploads/badges/9dd993a7-15e3-41bc-abf2-96644a7b5307/e6450cc5-fb6a-4812-9b51-7555f61672e2.png" alt="angular" />
 <p>Image from https://connect.symfony.com/</p>
 
 Thank you to:
